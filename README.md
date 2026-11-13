@@ -1,7 +1,5 @@
 <div align="center">
 
-# Qiao Guo
-
 **LLM inference engineer** — serving runtime, distributed execution, and the kernel-level details that decide TTFT and tail latency.
 
 SGLang · vLLM · CUDA · Triton · Python · C++
